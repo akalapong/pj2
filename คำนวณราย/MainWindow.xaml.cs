@@ -65,10 +65,14 @@ namespace คำนวณราย
         {
             if (System.Text.RegularExpressions.Regex.IsMatch(txtNeed.Text, "[^0-9]"))
             {
-
                 txtNeed.Text = txtNeed.Text.Remove(txtNeed.Text.Length - 1);
-                txtNeed.SelectionStart = txtNeed.Text.Length;
             }
+            
+            if(txtNeed.Text.Length > 10)
+            {
+                txtNeed.Text = txtNeed.Text.Substring(0,10);
+            }
+            txtNeed.SelectionStart = txtNeed.Text.Length;
         }
 
         private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
