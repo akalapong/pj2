@@ -1,0 +1,16 @@
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\bin\Debug\คำนวณราย.exe.config
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\bin\Debug\คำนวณราย.exe
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\bin\Debug\คำนวณราย.pdb
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.csproj.AssemblyReference.cache
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\MainWindow.g.cs
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\App.g.cs
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย_MarkupCompile.cache
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย_MarkupCompile.lref
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\MainWindow.baml
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.g.resources
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.Properties.Resources.resources
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.csproj.GenerateResource.cache
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.csproj.CoreCompileInputs.cache
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.exe
+C:\Users\arkarapong_c\source\repos\คำนวณราย\คำนวณราย\obj\Debug\คำนวณราย.pdb
